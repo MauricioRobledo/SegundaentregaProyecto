@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "timestamp": 1667033523343,
+    "nombre": "Galletas surtidas",
+    "descripcion": "Galletas surtidas marca Bagley",
+    "codigo": "5QQVD",
+    "foto": "https://arcorencasa.com/wp-content/uploads/2021/03/20210301-13276.png",
+    "precio": "$250",
+    "stock": 34
+  },
+  {
+    "id": 2,
+    "timestamp": 1667033523357,
+    "nombre": "Papas fritas Lays",
+    "descripcion": "Papas fritas marca Lays",
+    "codigo": "U8E32",
+    "foto": "https://www.multifood.com.ar/images/000Z-007-001-00190159z-001-001-001-lays-clasica.jpg",
+    "precio": "$300",
+    "stock": 28
+  },
+  {
+    "id": 3,
+    "timestamp": 1667033523376,
+    "nombre": "Galletas Oreo",
+    "descripcion": "Galletitas rellenas marca Oreo",
+    "codigo": "QY433",
+    "foto": "https://www.distribuidorapop.com.ar/wp-content/uploads/2019/05/galletitas-oreo-venta-ml-768x768.jpg",
+    "precio": "250",
+    "stock": 59
+  },
+  {
+    "id": 4,
+    "timestamp": 1667034954875,
+    "nombre": "Tita",
+    "descripcion": "Galletitas bañadas en chocolate con relleno sabor limon marca Terrabusi",
+    "codigo": "TY8L2",
+    "foto": "https://www.multifood.com.ar/images/000Z-007-002-00695511Z-007-002-006-Tita.png",
+    "precio": "80",
+    "stock": 60
+  }
+]
